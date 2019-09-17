@@ -4,3 +4,9 @@ D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagem
 D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.csprojResolveAssemblyReference.cache
 D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.dll
 D:\SEMESTER 6\SOC PROJECT TRIALS\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.pdb
+C:\Users\Nilay Desai\Documents\GitHub\Nilay-Patel\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\bin\WarehouseManagementServiceApp1.dll.config
+C:\Users\Nilay Desai\Documents\GitHub\Nilay-Patel\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\bin\WarehouseManagementServiceApp1.dll
+C:\Users\Nilay Desai\Documents\GitHub\Nilay-Patel\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\bin\WarehouseManagementServiceApp1.pdb
+C:\Users\Nilay Desai\Documents\GitHub\Nilay-Patel\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.csprojResolveAssemblyReference.cache
+C:\Users\Nilay Desai\Documents\GitHub\Nilay-Patel\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.dll
+C:\Users\Nilay Desai\Documents\GitHub\Nilay-Patel\WarehouseManagementServiceApp1\WarehouseManagementServiceApp1\obj\Debug\WarehouseManagementServiceApp1.pdb
